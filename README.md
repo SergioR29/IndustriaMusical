@@ -1,7 +1,8 @@
 # PROYECTO_ORACLE
 Proyecto que consiste en una BD relacional con SGBD **ORACLE** de una industria musical en la que se ha utilizado Java, PL/SQL y SQL a fondo, con ello, poniendo en práctica los conocimientos aprendidos sobre las bases de datos orientadas a objetos en su momento en el CFGS DAM.
 
-- src/main/resources: En este directorio están los archivos .sql que contienen los scripts SQL y PL/SQL, los tipos e inserts necesarios para crear la BD
+- **_src/main/java/Main.java_**: Aquí está el módulo principal del programa a ejecutar. Por cada consulta que se elija se guardará un fichero de texto (.txt) con el resultado de la consulta.
+- **_src/main/resources_**: En este directorio están los archivos .sql que contienen los scripts SQL y PL/SQL, los tipos e inserts necesarios para crear la BD
 
 ## TECNOLOGÍAS UTILIZADAS
 Versión SGBD: **XE 21c**  
