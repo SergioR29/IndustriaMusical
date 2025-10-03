@@ -1,4 +1,4 @@
-# PROYECTO_ORACLE
+# INDUSTRIA MUSICAL
 Proyecto que consiste en una BD relacional con SGBD **ORACLE** de una industria musical en la que se ha utilizado Java, PL/SQL y SQL a fondo, con ello, poniendo en práctica los conocimientos aprendidos sobre las bases de datos orientadas a objetos en su momento en el CFGS DAM.
 
 Se nos plantea una base de datos que almacena datos sobre la industria musical, esta almacena los datos de todas las personas involucradas en el proceso creativo. En concreto, almacena datos extra sobre los artistas (cantantes solistas o parte de un grupo), sus álbumes y sus canciones (en caso de los grupos, el cantante será el que tenga asociados los álbumes y las canciones). Por otro lado, contamos con las Academias de la Música que a lo largo del año convocan premiaciones para coronar a los mejores artistas. Cada premiación cuenta con presentaciones de algunos artistas que presentarán hasta un máximo de 3 canciones y pueden contar con un grupo de baile de hasta 12 personas. También tendrán hasta 12 invitados del mundo de la música y una serie de categorías. Las categorías tendrán un jurado de 2 miembros y un total de 3 canciones nominadas.
