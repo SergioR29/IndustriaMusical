@@ -1,5 +1,5 @@
 # PROYECTO_ORACLE
-Proyecto que consiste en una BD relacional con SGBD **ORACLE** de una industria musical en la que se ha utilizado Java, PL/SQL y SQL a fondo, con ello, poniendo en práctica los conocimientos aprendidos sobre las bases de datos orientadas a objetos.
+Proyecto que consiste en una BD relacional con SGBD **ORACLE** de una industria musical en la que se ha utilizado Java, PL/SQL y SQL a fondo, con ello, poniendo en práctica los conocimientos aprendidos sobre las bases de datos orientadas a objetos en su momento.
 
 ## TECNOLOGÍAS UTILIZADAS
 Versión SGBD: **_XE 21c_**  
