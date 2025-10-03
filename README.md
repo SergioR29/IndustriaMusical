@@ -21,11 +21,6 @@ Entornos de Desarrollo: **Eclipse IDE** y **SQL Developer**
 │   pom.xml  
 │   Resultado Query.txt  
 │  
-├───.settings  
-│       org.eclipse.core.resources.prefs  
-│       org.eclipse.jdt.core.prefs  
-│       org.eclipse.m2e.core.prefs  
-│  
 ├───src  
 │   ├───main  
 │   │   ├───java  
@@ -44,34 +39,3 @@ Entornos de Desarrollo: **Eclipse IDE** y **SQL Developer**
 │   │       └───tipos_e_inserts  
 │   │               Inserts.sql  
 │   │               Tipos.sql  
-│   │  
-│   └───test  
-│       ├───java  
-│       └───resources  
-└───target  
-    ├───classes  
-    │   │   Main.class  
-    │   │  
-    │   ├───META-INF  
-    │   │   │   MANIFEST.MF  
-    │   │   │  
-    │   │   └───maven  
-    │   │       └───PROYECTORA4  
-    │   │           └───PROYECTORA4_romerotejedor_sergio  
-    │   │                   pom.properties  
-    │   │                   pom.xml  
-    │   │  
-    │   ├───scripts  
-    │   │       ActualizarCancionesAlbumes.sql  
-    │   │       ActualizarCancionesBailarinesPR.sql  
-    │   │       ActualizarCategoriasPremiaciones.sql  
-    │   │       ActualizarJuradosCategorias.sql  
-    │   │       ActualizarNominacionesCategorias.sql  
-    │   │       borrarTodo.sql  
-    │   │       borrar_parte2.sql  
-    │   │  
-    │   └───tipos_e_inserts  
-    │           Inserts.sql  
-    │           Tipos.sql  
-    │  
-    └───test-classes  
