@@ -8,4 +8,3 @@ Lenguaje de Programación: **_Java_**, **_PL/SQL_**, SQL
 
 ## DIAGRAMA DE BASE DE DATOS
 <img width="1057" height="654" alt="Captura de pantalla 2025-10-03 130434" src="https://github.com/user-attachments/assets/04e4c4f0-bae6-42c2-8976-607cc33ef81c" />
-[DIAGRAMA DE TABLAS RELACIONAL.pdf](https://github.com/user-attachments/files/22679527/DIAGRAMA.DE.TABLAS.RELACIONAL.pdf)
