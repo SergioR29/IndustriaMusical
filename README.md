@@ -2,7 +2,6 @@
 Proyecto que consiste en una BD relacional con SGBD ORACLE de una industria musical en la que se ha utilizado SQL y PL/SQL a fondo, con ello, poniendo en práctica los conocimientos aprendidos sobre esta área tecnológica previamente.
 
 ## TECNOLOGÍAS UTILIZADAS
-Tipo de BD: **_Relacional_**  
 SGBD: **_Oracle XE 21c_**  
 Lenguaje de Programación: **_Java_**, **_PL/SQL_**, SQL  
 
