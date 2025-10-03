@@ -12,6 +12,9 @@ Versión SGBD: **XE 21c**
 Lenguaje de Programación: **Java** 21 y **PL/SQL**  
 Entornos de Desarrollo: **Eclipse IDE** y **SQL Developer**
 
+## DIAGRAMA DE BASE DE DATOS
+<img width="1057" height="654" alt="Captura de pantalla 2025-10-03 130434" src="https://github.com/user-attachments/assets/04e4c4f0-bae6-42c2-8976-607cc33ef81c" />
+
 ## ESTRUCTURA DEL PROYECTO
 ├───.settings  
 ├───src  
@@ -32,6 +35,3 @@ Entornos de Desarrollo: **Eclipse IDE** y **SQL Developer**
     │   ├───scripts  
     │   └───tipos_e_inserts  
     └───test-classes  
-
-## DIAGRAMA DE BASE DE DATOS
-<img width="1057" height="654" alt="Captura de pantalla 2025-10-03 130434" src="https://github.com/user-attachments/assets/04e4c4f0-bae6-42c2-8976-607cc33ef81c" />
