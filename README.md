@@ -15,25 +15,5 @@ Entornos de Desarrollo: **Eclipse IDE** y **SQL Developer**
 ## DIAGRAMA DE BASE DE DATOS
 <img width="1057" height="654" alt="Captura de pantalla 2025-10-03 130434" src="https://github.com/user-attachments/assets/04e4c4f0-bae6-42c2-8976-607cc33ef81c" />
 
-## ESTRUCTURA DEL PROYECTO
-│   pom.xml  
-│   Resultado Query.txt  
-│  
-├───src  
-│   ├───main  
-│   │   ├───java  
-│   │   │       Main.java  
-│   │   │  
-│   │   └───resources  
-│   │       ├───scripts  
-│   │       │       ActualizarCancionesAlbumes.sql  
-│   │       │       ActualizarCancionesBailarinesPR.sql  
-│   │       │       ActualizarCategoriasPremiaciones.sql  
-│   │       │       ActualizarJuradosCategorias.sql  
-│   │       │       ActualizarNominacionesCategorias.sql  
-│   │       │       borrarTodo.sql  
-│   │       │       borrar_parte2.sql  
-│   │       │  
-│   │       └───tipos_e_inserts  
-│   │               Inserts.sql  
-│   │               Tipos.sql  
+## ESTRUCTURA GENERAL DEL PROYECTO
+<img width="357" height="250" alt="estructura_ProyectoOracle" src="https://github.com/user-attachments/assets/e6cbab3f-7887-400c-9fd7-e8ecbe5a0ea1" />
