@@ -6,9 +6,32 @@ Proyecto que consiste en una BD relacional con SGBD **ORACLE** de una industria 
 - **_src/main/resources_**: En este directorio están los archivos .sql que contienen los scripts SQL y PL/SQL, los tipos e inserts necesarios para crear la BD
 
 ## TECNOLOGÍAS UTILIZADAS
+Tipo de proyecto: **Maven**  
 Versión SGBD: **XE 21c**  
+
 Lenguaje de Programación: **Java** 21 y **PL/SQL**  
 Entornos de Desarrollo: **Eclipse IDE** y **SQL Developer**
+
+## ESTRUCTURA DE DIRECTORIOS DEL PROYECTO MAVEN 
+├───.settings
+├───src
+│   ├───main
+│   │   ├───java
+│   │   └───resources
+│   │       ├───scripts
+│   │       └───tipos_e_inserts
+│   └───test
+│       ├───java
+│       └───resources
+└───target
+    ├───classes
+    │   ├───META-INF
+    │   │   └───maven
+    │   │       └───PROYECTORA4
+    │   │           └───PROYECTORA4_romerotejedor_sergio
+    │   ├───scripts
+    │   └───tipos_e_inserts
+    └───test-classes
 
 ## DIAGRAMA DE BASE DE DATOS
 <img width="1057" height="654" alt="Captura de pantalla 2025-10-03 130434" src="https://github.com/user-attachments/assets/04e4c4f0-bae6-42c2-8976-607cc33ef81c" />
