@@ -5,6 +5,9 @@ Proyecto que consiste en una BD relacional con SGBD **ORACLE** de una industria 
   
 - **_src/main/resources_**: En este directorio están los archivos .sql que contienen los scripts SQL y PL/SQL, los tipos e inserts necesarios para crear la BD
 
+## ESTRUCTURA GENERAL DEL PROYECTO
+<img width="357" height="250" alt="estructura_ProyectoOracle" src="https://github.com/user-attachments/assets/e6cbab3f-7887-400c-9fd7-e8ecbe5a0ea1" />
+
 ## TECNOLOGÍAS UTILIZADAS
 Tipo de proyecto: **Maven**  
 Versión SGBD: **XE 21c**  
@@ -14,6 +17,3 @@ Entornos de Desarrollo: **Eclipse IDE** y **SQL Developer**
 
 ## DIAGRAMA DE BASE DE DATOS
 <img width="1057" height="654" alt="Captura de pantalla 2025-10-03 130434" src="https://github.com/user-attachments/assets/04e4c4f0-bae6-42c2-8976-607cc33ef81c" />
-
-## ESTRUCTURA GENERAL DEL PROYECTO
-<img width="357" height="250" alt="estructura_ProyectoOracle" src="https://github.com/user-attachments/assets/e6cbab3f-7887-400c-9fd7-e8ecbe5a0ea1" />
