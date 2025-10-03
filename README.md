@@ -6,7 +6,7 @@ Proyecto que consiste en una BD relacional con SGBD **ORACLE** de una industria 
 
 - **_src/main/java/Main.java_**: Aquí está el módulo principal del programa a ejecutar. Por cada consulta que se elija se guardará un fichero de texto (.txt) con el resultado de la consulta en la raíz del proyecto.
   
-- **_src/main/resources_**: En este directorio están los archivos .sql que contienen los scripts SQL y PL/SQL, los tipos e inserts necesarios para crear la BD
+- **_src/main/resources_**: En este directorio están los archivos .sql que contienen los scripts SQL y PL/SQL, los tipos e inserts necesarios para crear la BD.
 
 ## TECNOLOGÍAS UTILIZADAS
 Tipo de proyecto: **Maven**  
