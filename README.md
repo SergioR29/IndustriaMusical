@@ -3,7 +3,7 @@ Proyecto que consiste en una BD relacional con SGBD **ORACLE** de una industria 
 
 ## TECNOLOGÍAS UTILIZADAS
 Versión SGBD: **XE 21c**  
-Lenguaje de Programación: **Java 21** y **PL/SQL**  
+Lenguaje de Programación: **Java** 21 y **PL/SQL**  
 Entornos de Desarrollo: **Eclipse IDE** y **SQL Developer**
 
 ## DIAGRAMA DE BASE DE DATOS
