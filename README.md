@@ -15,7 +15,7 @@ Para **más información**, consulte la **memoria** de este proyecto en **PDF** 
 
 ## TECNOLOGÍAS UTILIZADAS
 Tipo de proyecto: **Maven**  
-Versión SGBD: **XE 21c**  
+Versión SGBD (**ORACLE**): **XE 21c**  
 
 Lenguaje de Programación: **Java** 21 y **PL/SQL**  
 Entornos de Desarrollo: **Eclipse IDE** y **SQL Developer**
