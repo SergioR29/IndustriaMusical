@@ -17,7 +17,7 @@ Para **más información**, consulte la **memoria** de este proyecto en **PDF** 
 Tipo de proyecto: **Maven**  
 Versión SGBD (**ORACLE**): **XE 21c**  
 
-Lenguaje de Programación: **Java** 21 y **PL/SQL**  
+Lenguaje de Programación: **Java 21** y **PL/SQL**  
 Entornos de Desarrollo: **Eclipse IDE** y **SQL Developer**
 
 ## DIAGRAMA DE BASE DE DATOS
