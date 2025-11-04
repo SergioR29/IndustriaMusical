@@ -6,8 +6,6 @@ Se nos plantea una base de datos que almacena datos sobre la industria musical, 
 ---  
 Para **más información**, consulte la **memoria** de este proyecto en **PDF** [aquí](https://drive.google.com/file/d/1spoiqFIGesKtOsw1zZWXvK99wm2VRe-D/view?usp=sharing).
 
----
-
 ## ESTRUCTURA GENERAL DEL PROYECTO
 <img width="357" height="250" alt="estructura_ProyectoOracle" src="https://github.com/user-attachments/assets/e6cbab3f-7887-400c-9fd7-e8ecbe5a0ea1" />  
 
