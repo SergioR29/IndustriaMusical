@@ -18,7 +18,7 @@ Lenguaje de Programación: **Java 21** y **PL/SQL**
 Entornos de Desarrollo: **Eclipse IDE** y **SQL Developer**
 
 ## DIAGRAMA DE BASE DE DATOS
-<img width="357" height="250" alt="diagrama_ProyectoOracle" src="https://github.com/user-attachments/assets/04e4c4f0-bae6-42c2-8976-607cc33ef81c" />
+<img width="714" height="500" alt="diagrama_ProyectoOracle" src="https://github.com/user-attachments/assets/04e4c4f0-bae6-42c2-8976-607cc33ef81c" />
 
 ## MÁS INFORMACIÓN 
 Consulte la memoria de este proyecto en PDF [aquí](https://drive.google.com/file/d/1spoiqFIGesKtOsw1zZWXvK99wm2VRe-D/view?usp=sharing).
