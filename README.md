@@ -3,11 +3,6 @@ Proyecto que consiste en una aplicación de consola con una BD relacional con SG
 
 Se nos plantea una base de datos que almacena datos sobre la industria musical, esta almacena los datos de todas las personas involucradas en el proceso creativo. En concreto, almacena datos extra sobre los artistas (cantantes solistas o parte de un grupo), sus álbumes y sus canciones (en caso de los grupos, el cantante será el que tenga asociados los álbumes y las canciones). Por otro lado, contamos con las Academias de la Música que a lo largo del año convocan premiaciones para coronar a los mejores artistas. Cada premiación cuenta con presentaciones de algunos artistas que presentarán hasta un máximo de 3 canciones y pueden contar con un grupo de baile de hasta 12 personas. También tendrán hasta 12 invitados del mundo de la música y una serie de categorías. Las categorías tendrán un jurado de 2 miembros y un total de 3 canciones nominadas.
 
----
-### Más información 
-Consulte la memoria de este proyecto en PDF [aquí](https://drive.google.com/file/d/1spoiqFIGesKtOsw1zZWXvK99wm2VRe-D/view?usp=sharing).
-
----
 ## ESTRUCTURA GENERAL DEL PROYECTO
 <img width="357" height="250" alt="estructura_ProyectoOracle" src="https://github.com/user-attachments/assets/e6cbab3f-7887-400c-9fd7-e8ecbe5a0ea1" />  
 
@@ -23,4 +18,7 @@ Lenguaje de Programación: **Java 21** y **PL/SQL**
 Entornos de Desarrollo: **Eclipse IDE** y **SQL Developer**
 
 ## DIAGRAMA DE BASE DE DATOS
-<img width="1057" height="654" alt="Captura de pantalla 2025-10-03 130434" src="https://github.com/user-attachments/assets/04e4c4f0-bae6-42c2-8976-607cc33ef81c" />
+<img width="357" height="250" alt="diagrama_ProyectoOracle" src="https://github.com/user-attachments/assets/04e4c4f0-bae6-42c2-8976-607cc33ef81c" />
+
+## MÁS INFORMACIÓN 
+Consulte la memoria de este proyecto en PDF [aquí](https://drive.google.com/file/d/1spoiqFIGesKtOsw1zZWXvK99wm2VRe-D/view?usp=sharing).
